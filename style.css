@@ -1,0 +1,13 @@
+h3
+{
+  font-size: 25px !important;
+}
+.btn-success:hover
+{
+  background-color:lightgreen;
+}
+.canvas_1 {
+    border: 20px;
+    border-color: black;
+    border-width: 30px;
+}
